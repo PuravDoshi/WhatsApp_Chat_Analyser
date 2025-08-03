@@ -54,20 +54,24 @@ WhatsApp_Chat_Analyser/
     streamlit run app.py
 
 ## 📤 How to Export WhatsApp Chat
-Open WhatsApp on your phone
-Go to the chat or group you want to analyze
-Tap on > More > Export Chat
-Choose Without Media and save/share the .txt file
-Upload it in the dashboard interface
+1. Open WhatsApp on your phone
+2. Go to the chat or group you want to analyze
+3. Tap on > More > Export Chat
+4. Choose Without Media and save/share the .txt file
+5. Upload it in the dashboard interface
 
 ## 🙌 Contributing
-Have ideas? Found bugs? Want to add a new chart?
+Have ideas? 
+
+Found bugs? 
+
+Want to add a new chart?
+
 We welcome all contributions!
-Open an Issue
-Submit a Pull Request
 
 ## 📄 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
+
 
 ## 🙋‍♂️ Author
 Made with ❤️ by Purav Doshi
