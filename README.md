@@ -31,12 +31,14 @@ Turn your raw WhatsApp exported chats into beautiful, interactive visualisations
 ---
 
 ## 🛠️ File Structure
+```bash
 WhatsApp_Chat_Analyser/
 │
 ├── app.py # Main Streamlit app and dashboard layout
 ├── processor.py # Loads and prepares the WhatsApp data
 ├── helper.py # Contains core analysis and visualisation logic
 └── README.md # You are here!
+```
 
 
 ---
