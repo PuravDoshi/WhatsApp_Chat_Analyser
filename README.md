@@ -75,4 +75,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 Made with ❤️ by Purav Doshi
+
 If you found this project useful, consider ⭐ starring the repo and sharing it!
